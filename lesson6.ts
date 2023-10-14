@@ -7,4 +7,4 @@ let log = function(message){
 // }
 
 // let doLog = (message) => console.log(message);
-let doLog = () => console.log(message);
+let doLog = () => console.log();
