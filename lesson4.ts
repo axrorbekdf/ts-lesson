@@ -16,3 +16,8 @@ let abs1:number // string, boolean,
 // massiv
 let m:number[];
 let m1:any[];
+
+// Enum
+enum Color {Red = 0, Yellow = 1, Green = 2};
+
+let textColor:Color = Color.Red;
